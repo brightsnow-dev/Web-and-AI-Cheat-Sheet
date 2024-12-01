@@ -16,10 +16,12 @@ cd Web-and-AI-Cheat-Sheat
 
 ### Create  venv
 conda create -n [venv] python=3.12 -y
+
 conda activate [venv]
 
 ### Install requirements
 pip install -r requirements.txt
+
 check: pip list
 
 ### Run Streamlit app
