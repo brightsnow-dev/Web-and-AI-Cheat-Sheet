@@ -2,6 +2,7 @@ import streamlit as st
 import base64
 import requests
 
+
 # Initial page config
 st.set_page_config(
     page_title='Web+AI Personal Cheat Sheet',
